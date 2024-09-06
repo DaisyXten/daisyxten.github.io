@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://daisyxten.github.io/danqing.li//sitemap.xml
+Sitemap: https://daisyxten.github.io/sitemap.xml
